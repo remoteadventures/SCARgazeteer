@@ -1,0 +1,15 @@
+{
+  "name": "SCAR Antarctic Gazetteer",
+  "short_name": "SCAR Gazetteer",
+  "description": "Searchable database of 40,000+ Antarctic place names with offline support",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a1628",
+  "theme_color": "#0a1628",
+  "orientation": "any",
+  "prefer_related_applications": false,
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
